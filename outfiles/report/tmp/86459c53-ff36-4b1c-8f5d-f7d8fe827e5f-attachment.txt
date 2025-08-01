@@ -1,0 +1,11 @@
+INFO     common.base_api:base_api.py:40 2025-08-01 16:51:35.590 | INFO     | common.base_api:request_send:40 - 业务:SupplierFiles,接口:list,
+            请求体:{'params': {'current': 1, 'size': 1}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-rayo-platform-supplier/sup/list?current=1&size=1,
+            响应数据:{'code': 200, 'success': True, 'data': {'records': [{'id': '1951204147379875842', 'supplierCode': 'SUP2025080000000074', 'supplierName': 'rock自动化测试供方档案038292', 'supplierGoodType': None, 'enable': False, 'contactName': 'rock', 'contactPhone': 'HYMN5IC9qOnJN+JCnFvieztB/xu/+YXxAhjenRMfxYk=', 'email': '13111111111@163.com', 'thirdApiUrl': None, 'currUserAgreementDocVersion': None, 'tenantId': '000000', 'createTime': '2025-08-01 16:51:35', 'creatorCode': '1638440307854475265', 'creatorName': '吴中卉', 'modifyTime': '2025-08-01 16:51:35', 'modifierCode': '1638440307854475265', 'modifierName': '吴中卉', 'hasDelete': False, 'deleteTime': None, 'remark': None, 'enableCn': '禁用中', 'supFileSize': 0, 'tenantName': '分乐油站', 'supAgreementFileSize': 0, 'listSupplierFile': None, 'listSupplierAgreementFile': None}], 'total': 112, 'size': 1, 'current': 1, 'orders': [], 'optimizeCountSql': True, 'searchCount': True, 'countId': None, 'maxLimit': None, 'pages': 112}, 'msg': '操作成功'}
+
+            
+            
+INFO     common.base_api:base_api.py:40 2025-08-01 16:51:35.704 | INFO     | common.base_api:request_send:40 - 业务:SupplierFiles,接口:submit,
+            请求体:{'json': {'supplierName': 'rock自动化测试供方档案038292', 'contactPhone': '13111111111', 'email': '13111111111@163.com', 'tenantId': '000000', 'image_path': None}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-rayo-platform-supplier/sup/submit,
+            响应数据:{'code': 400, 'success': False, 'data': None, 'msg': 'contactName:请填写联系人姓名'}

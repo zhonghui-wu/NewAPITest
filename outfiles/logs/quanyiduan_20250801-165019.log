@@ -1,0 +1,28 @@
+2025-08-01 16:50:20, base_api(line:40), INFO|业务:Login,接口:login,
+            请求体:{'params': {'tenantId': '000000', 'username': 'rock', 'password': 'L0BSzng/Fhr7vyvj8UQLIUSHfwYHLy4T4aEgzRhd4kUXZCRK7k5gFJ1Jy+BgXphNlb8afyrOfPsotnJkWeZXi2bD0RIMuL0oLvEg7igoPEShVAMxV2x7mry+y3e1Za8iKdxnm1CeTT/1gjp0pX5CFq0T0Ac0doW5GfNN45h6c0E=', 'grant_type': 'password', 'scope': 'all', 'type': 'account'}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-auth/oauth/token?tenantId=000000&username=rock&password=L0BSzng%2FFhr7vyvj8UQLIUSHfwYHLy4T4aEgzRhd4kUXZCRK7k5gFJ1Jy%2BBgXphNlb8afyrOfPsotnJkWeZXi2bD0RIMuL0oLvEg7igoPEShVAMxV2x7mry%2By3e1Za8iKdxnm1CeTT%2F1gjp0pX5CFq0T0Ac0doW5GfNN45h6c0E%3D&grant_type=password&scope=all&type=account,
+            响应数据:{'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnRfaWQiOiIwMDAwMDAiLCJ1c2VyX25hbWUiOiJyb2NrIiwicmVhbF9uYW1lIjoi5ZC05Lit5Y2JIiwiYXZhdGFyIjoiIiwiYXV0aG9yaXRpZXMiOlsiYWRtaW5pc3RyYXRvciJdLCJjbGllbnRfaWQiOiJzYWJlciIsInJvbGVfbmFtZSI6ImFkbWluaXN0cmF0b3IiLCJsaWNlbnNlIjoicG93ZXJlZCBieSBibGFkZXgiLCJwb3N0X2lkIjoiMTEyMzU5ODgxNzczODY3NTIwMSIsInVzZXJfaWQiOiIxNjM4NDQwMzA3ODU0NDc1MjY1Iiwicm9sZV9pZCI6IjExMjM1OTg4MTY3Mzg2NzUyMDEiLCJzY29wZSI6WyJhbGwiXSwibmlja19uYW1lIjoi5ZC05Lit5Y2JIiwib2F1dGhfaWQiOiIiLCJkZXRhaWwiOnsidGVuYW50TmFtZSI6IuWIhuS5kOayueermSJ9LCJleHAiOjE3NTQ5MDIyMTksImRlcHRfaWQiOiIxMTIzNTk4ODEzNzM4Njc1MjAxIiwianRpIjoiNDI0OWIyM2ItYWUwMC00ZmM3LWJkZjItNGRlYjBhNGU3ZDFmIiwiYWNjb3VudCI6InJvY2sifQ.VV1PSBsyE_Ugm_JJyHnlb_i0VORMKUSJ4p0K8cat-3g', 'token_type': 'bearer', 'refresh_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5hbnRfaWQiOiIwMDAwMDAiLCJ1c2VyX25hbWUiOiJyb2NrIiwicmVhbF9uYW1lIjoi5ZC05Lit5Y2JIiwiYXZhdGFyIjoiIiwiYXV0aG9yaXRpZXMiOlsiYWRtaW5pc3RyYXRvciJdLCJjbGllbnRfaWQiOiJzYWJlciIsInJvbGVfbmFtZSI6ImFkbWluaXN0cmF0b3IiLCJsaWNlbnNlIjoicG93ZXJlZCBieSBibGFkZXgiLCJwb3N0X2lkIjoiMTEyMzU5ODgxNzczODY3NTIwMSIsInVzZXJfaWQiOiIxNjM4NDQwMzA3ODU0NDc1MjY1Iiwicm9sZV9pZCI6IjExMjM1OTg4MTY3Mzg2NzUyMDEiLCJzY29wZSI6WyJhbGwiXSwibmlja19uYW1lIjoi5ZC05Lit5Y2JIiwiYXRpIjoiNDI0OWIyM2ItYWUwMC00ZmM3LWJkZjItNGRlYjBhNGU3ZDFmIiwib2F1dGhfaWQiOiIiLCJkZXRhaWwiOnsidGVuYW50TmFtZSI6IuWIhuS5kOayueermSJ9LCJleHAiOjE3NTQ2NDMwMTksImRlcHRfaWQiOiIxMTIzNTk4ODEzNzM4Njc1MjAxIiwianRpIjoiYmI2MzU1MWUtNTIzOC00NjkzLWJjMzEtM2UyMGVlY2QxODE5IiwiYWNjb3VudCI6InJvY2sifQ.PI5U9S5piLCMj2KCZJcy59OxX243j_CMYwvPlJszI0U', 'expires_in': 864000, 'scope': 'all', 'tenant_id': '000000', 'user_name': 'rock', 'real_name': '吴中卉', 'avatar': '', 'client_id': 'saber', 'role_name': 'administrator', 'license': 'powered by bladex', 'post_id': '1123598817738675201', 'user_id': '1638440307854475265', 'role_id': '1123598816738675201', 'nick_name': '吴中卉', 'oauth_id': '', 'detail': {'tenantName': '分乐油站'}, 'dept_id': '1123598813738675201', 'account': 'rock', 'jti': '4249b23b-ae00-4fc7-bdf2-4deb0a4e7d1f'}
+
+            
+            
+2025-08-01 16:50:20, base_api(line:40), INFO|业务:SupplierFiles,接口:list,
+            请求体:{'params': {'current': 1, 'size': 1}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-rayo-platform-supplier/sup/list?current=1&size=1,
+            响应数据:{'code': 200, 'success': True, 'data': {'records': [{'id': '1905435129629134849', 'supplierCode': 'SUP2025030000000002', 'supplierName': '元气充优惠券', 'supplierGoodType': '虚拟类,其他,', 'enable': False, 'contactName': '测试', 'contactPhone': 'HYMN5IC9qOnJN+JCnFvieztB/xu/+YXxAhjenRMfxYk=', 'email': '13111111111@qq.com', 'thirdApiUrl': '', 'currUserAgreementDocVersion': '', 'tenantId': '000000', 'createTime': '2025-03-28 09:41:51', 'creatorCode': '1638440307854475265', 'creatorName': '吴中卉', 'modifyTime': '2025-08-01 16:24:52', 'modifierCode': '1638440307854475265', 'modifierName': '吴中卉', 'hasDelete': False, 'deleteTime': None, 'remark': None, 'enableCn': '禁用中', 'supFileSize': 0, 'tenantName': '分乐油站', 'supAgreementFileSize': 0, 'listSupplierFile': None, 'listSupplierAgreementFile': None}], 'total': 110, 'size': 1, 'current': 1, 'orders': [], 'optimizeCountSql': True, 'searchCount': True, 'countId': None, 'maxLimit': None, 'pages': 110}, 'msg': '操作成功'}
+
+            
+            
+2025-08-01 16:50:20, base_api(line:40), INFO|业务:SupplierFiles,接口:submit,
+            请求体:{'json': {'contactName': 'rock', 'contactPhone': '13111111111', 'email': '13111111111@163.com', 'tenantId': '000000', 'image_path': None}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-rayo-platform-supplier/sup/submit,
+            响应数据:{'code': 400, 'success': False, 'data': None, 'msg': 'supplierName:请填写公司名称'}
+
+            
+            
+2025-08-01 16:50:20, base_api(line:40), INFO|业务:SupplierFiles,接口:list,
+            请求体:{'params': {'supplierName': 'rock自动化测试供方档案', 'current': 1, 'size': 30}},
+            请求URL:https://5r5152q357.goho.co/right/api/blade-rayo-platform-supplier/sup/list?supplierName=rock%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E4%BE%9B%E6%96%B9%E6%A1%A3%E6%A1%88&current=1&size=30,
+            响应数据:{'code': 200, 'success': True, 'data': {'records': [], 'total': 0, 'size': 30, 'current': 1, 'orders': [], 'optimizeCountSql': True, 'searchCount': True, 'countId': None, 'maxLimit': None, 'pages': 0}, 'msg': '操作成功'}
+
+            
+            

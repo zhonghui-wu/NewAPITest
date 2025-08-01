@@ -1,0 +1,21 @@
+Login: # 业务模块名称
+  login: # 接口名称
+    path: /blade-auth/oauth/token
+    method: POST
+  logout: # 接口名称
+    path: /blade-auth/oauth/logout
+    method: GET
+
+SupplierFiles: # 业务模块名称--供方档案
+  list: # 接口名称--查询供方
+    path: /blade-rayo-platform-supplier/sup/list
+    method: GET
+  submit: # 接口名称--创建/编辑供方
+    path: /blade-rayo-platform-supplier/sup/submit
+    method: POST
+  delete: # 接口名称--删除供方
+    path: /blade-rayo-platform-supplier/sup/delete
+    method: DELETE
+  enable: # 接口名称--启用/禁用供方
+    path: /blade-rayo-platform-supplier/sup/enable
+    method: POST
